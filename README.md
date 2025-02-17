@@ -19,7 +19,7 @@ The **Social Network API** is a back-end application that enables the creation a
 ---
 ## Video Walkthrough
 
-https://app.screencastify.com/v2/manage/videos/guC7USOiX7sMQ83FIIDP 
+https://drive.google.com/file/d/1Ah9Ygsfdljz-XN8T3LYZSPwcc_z7O3v7/view
 
 
 ## Installation

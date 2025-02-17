@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1Ah9Ygsfdljz-XN8T3LYZSPwcc_z7O3v7/view
 
 2. Navigate to the project directory:
     ```bash
-  cd SocialNetwork
+    cd SocialNetwork
 
 3. Install Dependencies:
     ```bash
